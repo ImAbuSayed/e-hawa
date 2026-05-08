@@ -12,9 +12,10 @@
 |-------|---------|
 | **Title** | E Hawa |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
+| **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/e-hawa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for E Hawa](https://music.abusayed.com.bd/Licensing/?page=https://imabusayed.github.io/e-hawa/) |
+| **Get License** | [License this song: E Hawa](https://music.abusayed.com.bd/Licensing/?page=https://imabusayed.github.io/e-hawa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -81,7 +82,7 @@ All lyrics, melody, and composition rights are retained by the author.
 |:-------------------|:------------|
 | **Author** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fc6ff07bc6471229b888ed2e76ca9d26d3889c2e6494ccb5467ae692b11c913c` |
 | **Timestamp** | May 08, 2026 |
 
 See [**LICENSE.md**](./LICENSE.md) for full terms and conditions.
