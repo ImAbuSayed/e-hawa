@@ -14,7 +14,7 @@
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/e-hawa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: E Hawa](https://music.abusayed.com.bd/Licensing/?page=https://imabusayed.github.io/e-hawa/) |
+| **Get License** | [Commercial Licensing for E Hawa](https://music.abusayed.com.bd/Licensing/?page=https://imabusayed.github.io/e-hawa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -31,7 +31,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> এ হাওয়া নিয়ে যায় স্মৃতির অরণ্যে
+> অজানা মায়ায় ঘেরা প্রেমেরই জন্যে.. প্রেমের জন্যে..
+> তোমার চোখের সেই গভীরে হারাই
+> আঁধারে শুধু আজ তোমাকেই চাই
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
