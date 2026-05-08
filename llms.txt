@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | E Hawa |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | May 05, 2026 |
+| **Written On** | May 08, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/e-hawa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: E Hawa](https://music.abusayed.com.bd/Licensing/?page=https://imabusayed.github.io/e-hawa/) |
+| **Get License** | [Get a Licensing Quote for E Hawa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/e-hawa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
